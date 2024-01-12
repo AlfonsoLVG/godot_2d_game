@@ -1,0 +1,5 @@
+# Godot 4+ specific ignores
+dodge_the_creeps_2d_assets/
+.godot/
+fonts/
+art/
